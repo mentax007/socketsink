@@ -116,7 +116,7 @@ if __name__ == "__main__":
     # Run Time (int)(minutes)
     # This script is engineered to only run for a set time. For an hour for example
     # Then, presumably a new instance will be started by cron
-    run_time = 1
+    run_time = 30
 
     # Accounts to subscribe to
     # If sub_descendants exists and is true, all sub-accounts will also be subscribed to
