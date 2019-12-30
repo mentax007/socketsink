@@ -1,0 +1,4 @@
+websocket-client
+kazoo-sdk
+b2sdk
+mysql-connector-python
